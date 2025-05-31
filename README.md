@@ -1,6 +1,6 @@
-# RoMT: Robust Metamorphic Testing for LLM Hallucination Detection
+# ReMT: Reliable Metamorphic Testing for LLM Hallucination Detection
 
-This project implements the **RoMT (Robust Metamorphic Testing)** framework for detecting hallucinations in Large Language Models (LLMs), as described in the research paper. The system leverages metamorphic testing to analyze relative confidence across multiple activation paths in LLMs to identify hallucinated outputs without requiring manual annotation or external resources.
+This project implements the **ReMT (Reliable Metamorphic Testing)** framework for detecting hallucinations in Large Language Models (LLMs), as described in the research paper. The system leverages metamorphic testing to analyze relative confidence across multiple activation paths in LLMs to identify hallucinated outputs without requiring manual annotation or external resources.
 
 ## Project Structure
 
