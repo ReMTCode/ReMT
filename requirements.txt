@@ -1,0 +1,7 @@
+pandas
+openai
+torch
+transformers
+numpy
+joblib
+googletrans
